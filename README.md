@@ -12,6 +12,6 @@ flutter run
 Screenshots are available in /docs/screenshots.
 # Features
 - BMI calculation
-- Category display
+- Height and Weight display
 - Clear button
 
