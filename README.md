@@ -1,2 +1,18 @@
 # BMI_CALCULATOR
-Basic app to calculate the BMI by taking Height and Weight as Input
+# BMI Calculator App
+
+A simple BMI calculator built with Flutter.
+
+## 🚀 How to Run
+
+```bash
+cd frontend
+flutter pub get
+flutter run
+**Screenshots**
+Screenshots are available in /docs/screenshots.
+# Features
+- BMI calculation
+- Category display
+- Clear button
+
